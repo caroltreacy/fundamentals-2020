@@ -12,7 +12,7 @@ Tasks for fundamentals 2020
         - Binomial
 
     Task 4 
-        - 
+        - Simpson's Paradox
 
 
 End
